@@ -1,7 +1,7 @@
 # Olasz
 Olasz - Studió Italia
 
-[# Anki szótár]()
+[# Anki szótár](https://github.com/Lensver65/Olasz/blob/main/Olasz%20-%20Studioitalia.txt)
 
 ## Olasz igék jelen idejű ragozása
 
