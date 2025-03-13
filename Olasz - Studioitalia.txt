@@ -472,3 +472,19 @@ la Corea	Korea
 coreano	koreai  
 l'Ungheria	Magyarország  
 ungherese	magyar  
+
+# Verbi (Igék)
+
+giocare	játszani  
+comprare	venni, vásárolni  
+pagare	fizetni  
+suonare	hangszeren játszani  
+mangiare	enni  
+guardare	nézni  
+leggere	olvasni  
+studiare	tanulni  
+chiudere	becsukni, bezárni  
+preferire	előnyben részesíteni  
+spegnere	kikapcsolni, eloltani  
+accendere	felkapcsolni, meggyújtani 
+
