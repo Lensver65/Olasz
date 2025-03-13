@@ -26,25 +26,14 @@ Olasz - Studió Italia
 | UNGHERESE (-e/-i)            | svedese                           | Erik è svedese        | Erik e Lars sono svedesi        | Emma è svedese       | Emma e Ingrid sono svedesi       |
 
 
-## Olasz főnevek ragozása
+## Olasz főnevek ragozásának általános szabályai
 
-
-| Kategória            | Végződés          | Egyes szám hímnem  | Többes szám hímnem | Egyes szám nőnem   | Többes szám nőnem   |
-|----------------------|------------------|--------------------|--------------------|--------------------|--------------------|
-| NOMI (SOSTANTIVI)   | -o → -i          | gatto             | gatti             | casa              | case              |
-| NOMI (SOSTANTIVI)   | -o → -i          | libro             | libri             | torta             | torte             |
-| NOMI (SOSTANTIVI)   | -o → -i          | bambino           | bambini           | mamma             | mamme             |
-| NOMI (SOSTANTIVI)   | -a → -e          | casa              | case              | chiave            | chiavi            |
-| NOMI (SOSTANTIVI)   | -a → -e          | torta             | torte             | notte             | notti             |
-| NOMI (SOSTANTIVI)   | -a → -e          | mamma             | mamme             | neve              | nevi              |
-| NOMI (SOSTANTIVI)   | -e → -i          | cane              | cani              | canzone           | canzoni           |
-| NOMI (SOSTANTIVI)   | -e → -i          | sole              | soli              | panna cotta       | panna cotta       |
-| NOMI (SOSTANTIVI)   | -e → -i          | mare              | mari              | fragola           | fragole           |
-| NOMI (SOSTANTIVI)   | Invariabili      | università        | università        | città bella       | città belle       |
-| NOMI (SOSTANTIVI)   | Invariabili      | città             | città             | canzone bella     | canzoni belle     |
-| NOMI (SOSTANTIVI)   | Invariabili      | felicità          | felicità          | attenzione        | attenzioni        |
-| NOMI (SOSTANTIVI)   | Invariabili      | papà              | papà              | pipì              | pipì              |
-| NOMI (SOSTANTIVI)   | Invariabili      | caffè             | caffè             | popò              | popò              |
-| NOMI (SOSTANTIVI)   | -zione → invariabile | manifestazione   | manifestazioni   | colazione         | colazioni         |
-| NOMI (SOSTANTIVI)   | Altri esempi     | ragazzo           | ragazzi           | fragola           | fragole           |
-
+| Végződés         | Egyes szám hímnem | Többes szám hímnem | Egyes szám nőnem | Többes szám nőnem | Megjegyzés |
+|-----------------|------------------|------------------|------------------|------------------|----------------------------------------------|
+| -o → -i         | ragazzo          | ragazzi          | -                | -                | Az -o végű főnevek hímnemben -i-re változnak |
+| -a → -e         | -                | -                | ragazza          | ragazze          | Az -a végű főnevek nőnemben -e-re változnak |
+| -e → -i         | fiore            | fiori            | notte            | notti            | Az -e végű főnevek mindkét nemben -i-re változnak |
+| -co → -chi / -ci | amico           | amici            | amica            | amiche           | Az -co végű főnevek néha -chi, néha -ci formában ragozódnak |
+| -go → -ghi / -gi | lago            | laghi            | bottega          | botteghe         | Az -go végű főnevek néha -ghi, néha -gi formában ragozódnak |
+| -io → -i        | orologio         | orologi          | -                | -                | Az -io végű főnevek többes számban -i végződést kapnak |
+| Invariabili     | università       | università       | città            | città            | Néhány főnév változatlan marad többes számban |
