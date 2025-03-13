@@ -14,16 +14,17 @@ Olasz - Studió Italia
 
 ## Olasz melléknevek ragozása
 
-| Csoport                      | Melléknév                           | Egyes szám hímnem      | Többes szám hímnem               | Egyes szám nőnem      | Többes szám nőnem                 |
-|------------------------------|------------------------------------|------------------------|----------------------------------|----------------------|----------------------------------|
-| ITALIANO (-o/-i - -a/-e)     | italiano, messicano, peruviano…   | Mario è italiano      | Mario e Filippo sono italiani   | Anna è italiana      | Anna e Carla sono italiane       |
-| ITALIANO (-o/-i - -a/-e)     | australiano                       | Luca è australiano    | Luca e Marco sono australiani   | Sophie è australiana | Sophie e Olivia sono australiane |
-| ITALIANO (-o/-i - -a/-e)     | messicano                         | Diego è messicano     | Diego e José sono messicani     | Maria è messicana    | Maria e Camila sono messicane    |
-| ITALIANO (-o/-i - -a/-e)     | peruviano                         | Paolo è peruviano     | Paolo e Fabio sono peruviani    | Elena è peruviana    | Elena e Laura sono peruviane     |
-| UNGHERESE (-e/-i)            | cinese, giapponese, svedese…      | Béla è ungherese      | Béla e Ákos sono ungheresi      | Janka è ungherese    | Janka e Éva sono ungheresi       |
-| UNGHERESE (-e/-i)            | cinese                            | Tom è cinese          | Tom e Lee sono cinesi           | Mei è cinese         | Mei e Lin sono cinesi            |
-| UNGHERESE (-e/-i)            | giapponese                        | Yuki è giapponese     | Yuki e Ken sono giapponesi      | Hana è giapponese    | Hana e Aiko sono giapponesi      |
-| UNGHERESE (-e/-i)            | svedese                           | Erik è svedese        | Erik e Lars sono svedesi        | Emma è svedese       | Emma e Ingrid sono svedesi       |
+| Végződés         | Egyes szám hímnem | Többes szám hímnem | Egyes szám nőnem | Többes szám nőnem | Megjegyzés |
+|-----------------|------------------|------------------|------------------|------------------|----------------------------------------------|
+| -o → -i         | bello            | belli            | bella            | belle            | Az -o végű melléknevek hímnemben -i, nőnemben -a/-e végződésűek |
+| -a → -e         | -                | -                | chiara           | chiare           | Az -a végű melléknevek nőnemben -e végződést kapnak |
+| -e → -i         | grande           | grandi           | grande           | grandi           | Az -e végű melléknevek mindkét nemben -i végződést kapnak |
+| -ista → -isti / -iste | ottimista  | ottimisti        | ottimista        | ottimiste        | Az -ista végű melléknevek hímnemben -isti, nőnemben -iste végződést kapnak |
+| -co → -chi / -ci | simpatico        | simpatici        | simpatica        | simpatiche       | Az -co végű melléknevek néha -chi, néha -ci végződést kapnak |
+| -go → -ghi / -gi | largo            | larghi           | larga            | larghe           | Az -go végű melléknevek néha -ghi, néha -gi végződést kapnak |
+| -io → -i        | vario            | vari             | varia            | varie            | Az -io végű melléknevek többes számban -i végződést kapnak |
+| Invariabili     | blu              | blu              | blu              | blu              | Néhány melléknév változatlan marad többes számban |
+
 
 
 ## Olasz főnevek ragozásának általános szabályai
