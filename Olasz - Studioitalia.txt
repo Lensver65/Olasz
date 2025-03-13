@@ -1,0 +1,474 @@
+#separator:tab
+#html:false
+
+# Espressioni comuni (Gyakori kifejezések)
+Come va?	Hogy vagy?
+Va bene	Jól van / Jól megy
+Va abbastanza bene	Elég jól megy
+Così così	Úgy-ahogy
+Va molto bene!	Nagyon jól megy!
+Va benissimo :-)	Szuperül megy! :-)
+
+Come stai?	Hogy vagy? (tegező)
+Sto abbastanza bene	Elég jól vagyok
+Sto bene	Jól vagyok
+Sto molto bene!	Nagyon jól vagyok!
+
+# I giorni della settimana (A hét napjai)
+il lunedì	hétfő
+il martedì	kedd
+il mercoledì	szerda
+il giovedì	csütörtök
+il venerdì	péntek
+il sabato	szombat
+la domenica	vasárnap
+
+# I mesi dell'anno (Az év hónapjai)
+il gennaio	január
+il febbraio	február
+il marzo	március
+l'aprile	április
+il maggio	május
+il giugno	június
+il luglio	július
+l'agosto	augusztus
+il settembre	szeptember
+l'ottobre	október
+il novembre	november
+il dicembre	december
+
+# Le stagioni dell'anno (Az évszakok)
+la primavera	tavasz
+l'estate	nyár
+l'autunno	ősz
+l'inverno	tél
+
+# Oggetti e concetti comuni (Gyakori tárgyak és fogalmak)
+l'acqua (f)	víz
+l'aeroporto (m)	repülőtér
+l'andiamo (m)	menjünk
+l'avanti (m)	előre
+i baci (m, pl)	csókok
+il bene	jól
+il bevi	iszol
+la bici	bicikli
+la birra	sör
+i bambini (m, pl)	gyerekek
+il buongiorno	jó reggelt / jó napot
+il caffè corretto	alkoholos kávé
+il calcio	foci
+il cane	kutya
+il cantare	énekelni
+la carbonara	carbonara (olasz tésztaétel)
+il cappuccino	kapucsínó
+i carabinieri (m, pl)	csendőrség
+la chiesa	templom
+il ciao	szia
+il coltello	kés
+il comunque	mindenesetre
+il coccodrillo	krokodil
+la scimmia	majom
+la scuola	iskola
+lo scrivere	írni
+il serpente	kígyó
+la farina	liszt
+il finito	kész / befejezett
+il fine settimana	hétvége
+il fiume	folyó
+il forno	kemence / sütő
+la fragola	eper
+il fratello	fiútestvér
+la frutta	gyümölcs
+il gatto	macska
+il gelato	fagylalt
+il guidare	vezetni
+l'insieme (m)	együtt
+l'io (m) sono	én vagyok
+il lavoro	munka
+il latte	tej
+la lezione	leckék
+il limoncello	citromlikőr
+il libro	könyv
+la macchina	autó
+la macelleria	hentesüzlet
+la mamma	anya
+la mano	kéz
+il mare	tenger
+il marito	férj
+il mascarpone	mascarpone (olasz sajtkrém)
+la moglie	feleség
+la mortadella	mortadella (olasz felvágott)
+la nonna	nagymama
+il numero	szám
+l'oliva (f)	olajbogyó
+la pallanuoto	vízilabda
+il pane	kenyér
+la panna	tejszín
+il panettone	panettone (karácsonyi kalács)
+la pasticceria	cukrászda
+la pasta	tészta
+la piazza	tér
+la pizza	pizza
+la polizia	rendőrség
+il prosciutto	sonka
+i ragazzi (m, pl)	fiúk / srácok
+il ristorante	étterem
+il riso	rizs
+le scimmie (f, pl)	majmok
+la scusa	bocsánat
+il serpente	kígyó
+la settimana	hét (időszak)
+il sole	nap (égitest)
+il tiramisù	tiramiszú (olasz desszert)
+il treno	vonat
+l'uscita (f)	kijárat
+la via	utca
+il vino	bor
+il vivo	élek
+lo zoo	állatkert
+lo zucchero	cukor
+
+# Pronomi personali (Személyes névmások)
+io	én
+tu	te
+lui	ő (hímnem)
+lei	ő (nőnem)
+Lei	Ön (udvarias forma)
+noi	mi
+voi	ti
+loro	ők
+
+# Pronomi possessivi (Birtokos névmások)
+mio	enyém (hímnem, egyes szám)
+mia	enyém (nőnem, egyes szám)
+miei	enyéim (hímnem, többes szám)
+mie	enyéim (nőnem, többes szám)
+
+tuo	tiéd (hímnem, egyes szám)
+tua	tiéd (nőnem, egyes szám)
+tuoi	tiéid (hímnem, többes szám)
+tue	tiéid (nőnem, többes szám)
+
+suo	övé (hímnem, egyes szám)
+sua	övé (nőnem, egyes szám)
+suoi	övéi (hímnem, többes szám)
+sue	övéi (nőnem, többes szám)
+
+nostro	miénk (hímnem, egyes szám)
+nostra	miénk (nőnem, egyes szám)
+nostri	miéink (hímnem, többes szám)
+nostre	miéink (nőnem, többes szám)
+
+vostro	tiétek (hímnem, egyes szám)
+vostra	tiétek (nőnem, egyes szám)
+vostri	tiéitek (hímnem, többes szám)
+vostre	tiéitek (nőnem, többes szám)
+
+loro	övék (minden esetben)
+
+# Pronomi dimostrativi (Mutató névmások)
+questo	ez (hímnem, egyes szám)
+questa	ez (nőnem, egyes szám)
+questi	ezek (hímnem, többes szám)
+queste	ezek (nőnem, többes szám)
+
+quello	az (hímnem, egyes szám)
+quella	az (nőnem, egyes szám)
+quelli	azok (hímnem, többes szám)
+quelle	azok (nőnem, többes szám)
+
+# Pronomi interrogativi (Kérdő névmások)
+chi	ki?
+che / cosa / che cosa	mi? mit?
+quale	melyik?
+quali	melyek?
+quanto	mennyi? (hímnem, egyes szám)
+quanta	mennyi? (nőnem, egyes szám)
+quanti	mennyik? (hímnem, többes szám)
+quante	mennyik? (nőnem, többes szám)
+
+# Pronomi relativi (Vonatkozó névmások)
+che	aki, ami
+cui	akinek, aminek (vonzatos esetekben)
+il quale	aki (hímnem, egyes szám)
+la quale	aki (nőnem, egyes szám)
+i quali	akik (hímnem, többes szám)
+le quali	akik (nőnem, többes szám)
+
+# Pronomi indefiniti (Határozatlan névmások)
+qualcuno	valaki
+qualcosa	valami
+ognuno	mindenki
+nessuno	senki
+niente / nulla	semmi
+tutto	minden
+alcuni	néhányan (hímnem)
+alcune	néhányan (nőnem)
+diversi	többen (hímnem)
+diverse	többen (nőnem)
+
+# Pronomi riflessivi (Visszaható névmások)
+mi	magam
+ti	magad
+si	maga / magát (ő, ön)
+ci	magunkat
+vi	magatokat
+si	magukat
+
+il volantino	szórólap
+la manifestazione	rendezvény, megmozdulás
+l'inquinamento (m)	szennyezés
+l'insegnante (m/f)	tanár, tanító
+Maschile	hímnem
+Femminile	nőnem
+singolare	egyes szám
+plurale	többes szám
+la pasta	tészta
+il formaggio	sajt
+il prosciutto	sonka
+la frutta	gyümölcs
+la birra	sör
+la verdura	zöldség
+l'acqua (f)	víz
+l'aglio (m)	fokhagyma
+il gelato	fagylalt
+l'olio (m)	olaj
+la marmellata	lekvár
+il burro	vaj
+la penna	toll
+
+il cantante	énekes
+la cantante	énekesnő
+il ragazzo	fiú
+la ragazza	lány
+la dottoressa	doktornő
+lo studente	diák (fiú)
+la studentessa	diák (lány)
+il commesso	bolti eladó (férfi)
+la commessa	bolti eladó (nő)
+l'italiana (f)	olasz nő
+l'italiano (m)	olasz férfi
+il marito	férj
+la moglie	feleség
+la madre	anya
+il padre	apa
+l'attore (m)	színész
+l'attrice (f)	színésznő
+l'insegnante (m/f)	tanár, tanító
+il segretario	titkár
+la segretaria	titkárnő
+il cameriere	pincér
+la cameriera	pincérnő
+il dottore	orvos
+l'uomo (m)	férfi
+
+la pensione	nyugdíj, panzió
+la borsa	táska, tőzsde
+la patata	krumpli
+il tavolo	asztal
+l'impiegato (m)	alkalmazott (férfi)
+la gente	emberek, nép
+l'infermiera (f)	ápolónő
+l'orologio (m)	óra (karóra, falióra)
+la passione	szenvedély
+la bicicletta	bicikli
+il lavoro	munka
+l'ambizione (f)	ambíció
+la stazione	pályaudvar, állomás
+l'estate (f)	nyár
+l'ora (f)	óra (időtartam)
+la televisione	televízió
+il libro	könyv
+la nave	hajó
+il cane	kutya
+la luce	fény
+la chiave	kulcs
+il treno	vonat
+l'errore (m)	hiba
+la casa	ház, otthon
+la cucina	konyha
+
+il caldo	meleg
+arrabbiato	mérges, dühös
+triste	szomorú
+la fame	éhség
+contento	elégedett, boldog
+la sete	szomjúság
+sorpreso	meglepett
+il freddo	hideg
+
+# Verbi (Igék)
+regalare	ajándékozni
+aspettare	várni
+guardare	nézni
+ascoltare	hallgatni
+incontrare	találkozni
+amare	szeretni
+telefonare	telefonálni
+pagare	fizetni
+giocare	játszani
+ballare	táncolni
+scrivere	írni
+credere	hinni
+spendere	költeni (pénzt)
+scendere	leszállni, lemenni
+conoscere	ismerni
+accendere	felkapcsolni, meggyújtani
+vedere	látni
+prendere	venni, fogni
+chiudere	becsukni, bezárni
+ricevere	kézhez kapni
+partire	elindulni, elutazni
+offrire	felkínálni, meghívni
+soffrire	szenvedni
+pulire	takarítani, tisztítani
+capire	érteni
+sentire	hallani, érezni
+finire	befejezni
+seguire	követni
+aprire	kinyitni
+preferire	jobban szeretni, előnyben részesíteni
+
+# Sostantivi (Főnevek)
+il giornale	újság
+la moda	divat
+la fermata	megálló
+la chiave	kulcs
+l'aperta (f)	nyitott (állapot)
+il bagno	fürdőszoba
+matrimoniale	dupla, franciaágyas (szoba)
+le camere	szobák
+la singola	egyágyas szoba
+la doppia	kétágyas szoba
+la colazione	reggeli
+facile	könnyű, egyszerű
+
+# Verbo "andare" (Menni ige)
+andare	menni
+vado	megyek
+vai	mész
+va	megy
+andiamo	megyünk
+andate	mentek
+vanno	mennek
+
+# Verbo "essere" (Lenni ige)
+essere	lenni
+sono	(én) vagyok
+sei	(te) vagy
+è	(ő) van
+siamo	(mi) vagyunk
+siete	(ti) vagytok
+sono	(ők) vannak
+
+# Verbo "avere" (Birtokolni ige)
+avere	birtokolni, van valamije
+ho	(nekem) van
+hai	(neked) van
+ha	(neki) van
+abbiamo	(nekünk) van
+avete	(nektek) van
+hanno	(nekik) van
+
+# Verbo "fare" (Csinálni ige)
+fare	csinálni, tenni
+faccio	(én) csinálok
+fai	(te) csinálsz
+fa	(ő) csinál
+facciamo	(mi) csinálunk
+fate	(ti) csináltok
+fanno	(ők) csinálnak
+
+# Numeri cardinali (Számok)
+
+zero	nulla
+uno	egy
+due	kettő
+tre	három
+quattro	négy
+cinque	öt
+sei	hat
+sette	hét
+otto	nyolc
+nove	kilenc
+dieci	tíz
+undici	tizenegy
+dodici	tizenkettő
+tredici	tizenhárom
+quattordici	tizennégy
+quindici	tizenöt
+sedici	tizenhat
+diciassette	tizenhét
+diciotto	tizennyolc
+diciannove	tizenkilenc
+venti	húsz
+ventuno	huszonegy
+ventidue	huszonkettő
+ventitré	huszonhárom
+ventiquattro	huszonnégy
+venticinque	huszonöt
+ventisei	huszonhat
+ventisette	huszonhét
+ventotto	huszonnyolc
+ventinove	huszonkilenc
+trenta	harminc
+quaranta	negyven
+cinquanta	ötven
+sessanta	hatvan
+settanta	hetven
+ottanta	nyolcvan
+novanta	kilencven
+cento	száz
+
+# Paesi e nazionalità (Országok és nemzetiségek)
+
+la Grecia	Görögország  
+greco	görög  
+l'Argentina	Argentína  
+argentino	argentin  
+la Germania	Németország  
+tedesco	német  
+la Russia	Oroszország  
+russo	orosz  
+i Paesi Bassi	Hollandia  
+olandese	holland  
+il Canada	Kanada  
+canadese	kanadai  
+l'Italia	Olaszország  
+italiano	olasz  
+l'Inghilterra	Anglia  
+inglese	angol  
+l'Europa	Európa  
+europeo	európai  
+l'India	India  
+indiano	indiai  
+gli Stati Uniti d'America	Egyesült Államok  
+americano	amerikai  
+la Cina	Kína  
+cinese	kínai  
+l'Irlanda	Írország  
+irlandese	ír  
+la Croazia	Horvátország  
+croato	horvát  
+la Svezia	Svédország  
+svedese	svéd  
+il Messico	Mexikó  
+messicano	mexikói  
+la Polonia	Lengyelország  
+polacco	lengyel  
+la Spagna	Spanyolország  
+spagnolo	spanyol  
+la Svizzera	Svájc  
+svizzero	svájci  
+l'Austria	Ausztria  
+austriaco	osztrák  
+la Francia	Franciaország  
+francese	francia  
+il Giappone	Japán  
+giapponese	japán  
+il Portogallo	Portugália  
+portoghese	portugál  
+la Corea	Korea  
+coreano	koreai  
+l'Ungheria	Magyarország  
+ungherese	magyar  
