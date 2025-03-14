@@ -487,4 +487,5 @@ chiudere	becsukni, bezárni
 preferire	előnyben részesíteni  
 spegnere	kikapcsolni, eloltani  
 accendere	felkapcsolni, meggyújtani 
+indossare	visel, hord
 
